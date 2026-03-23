@@ -1,1 +1,1 @@
-
+print (img/prestamos.jpg)
